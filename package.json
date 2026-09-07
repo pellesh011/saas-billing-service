@@ -48,6 +48,6 @@
     "node": ">=22.0.0"
   },
   "dependencies": {
-    "@mui/system": "^9.2.0"
+    "@mui/system": "^9.4.0"
   }
 }
